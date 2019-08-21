@@ -24,6 +24,6 @@
 
   <exec_depend>crane_x7_moveit_config</exec_depend>
   <exec_depend>crane_x7_control</exec_depend>
-  <exec_depend>crane_x7_description</exec_depend>
+  <exec_depend>my_crane_x7_description</exec_depend>
 
 </package>
